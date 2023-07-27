@@ -196,8 +196,8 @@ hr{
   font-family: 'Century Gothic Paneuropean','Arial';
   font-style: normal;
   font-weight: 400;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 
 #image1{
@@ -247,6 +247,47 @@ hr{
   width: 100px;
 }
 
+#image11{
+  height: 320px;
+}
+
+#image12{
+  height: 320px;
+}
+
+#image13{
+  height: 320px;
+  width: 500px;
+}
+
+#image14{
+  height: 320px;
+  width: 475px
+}
+
+#image16{
+width: 300px;
+margin-left: 40%;
+}
+
+#image17{
+  height: 700px;
+}
+
+#image18{
+  height: 700px;
+  margin-left: 20%;
+}
+
+#image19{
+  width: 525px;
+}
+
+
+#image21{
+  height: 500px;
+  margin-left: 70%;
+}
 
 .col1{
   width: 80%;
@@ -267,3 +308,118 @@ hr{
   margin-right: auto;
   margin-bottom: 3%;
 }
+
+.Hcol1{
+  width: 50%;
+}
+
+#push{
+  margin-top: 8%;
+}
+#push2{
+  margin-top: 5%;
+}
+
+@media screen and (max-width: 600px){
+  
+  #image1{
+    margin-top: 3%;
+    width: 300px;
+  }
+  
+  #image2{
+    width: 550px;
+  }
+  
+  #image3{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+  }
+  
+  #image4{
+    height: 320px;
+  }
+  
+  #image5{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+  }
+  
+  #image6{
+    margin-top: 3%;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+  }
+  
+  #image7{
+    margin-top: 3%;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+  }
+  
+  #image8{
+    width: 100px;
+  }
+  
+  #image9{
+    width: 95%;
+  }
+  
+  #image10{
+    margin-top: 3%;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+  }
+  
+  #image11{
+    height: 320px;
+  }
+  
+  #image12{
+    height: 320px;
+  }
+  
+  #image13{
+    height: 320px;
+    width: 500px;
+  }
+  
+  #image14{
+    height: 320px;
+    width: 475px
+  }
+  
+  #image16{
+  width: 300px;
+  margin-left: 40%;
+  }
+  
+  #image17{
+    height: 700px;
+  }
+  
+  #image18{
+    height: 700px;
+    margin-left: 20%;
+  }
+  
+  #image19{
+    width: 525px;
+  }
+  
+  
+  #image21{
+    height: 500px;
+    margin-left: 70%;
+  }
+  }
