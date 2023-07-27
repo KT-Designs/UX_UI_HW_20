@@ -130,7 +130,8 @@ hr{
 
 #scc{
   margin-top: 5%;
-
+  height:450px;
+  width: auto;
 }
 
 #title{
@@ -321,6 +322,12 @@ margin-left: 40%;
 }
 
 @media screen and (max-width: 600px){
+
+  #scc{
+    margin-top: 5%;
+    height: 250px;
+    margin-left: 10%;
+  }
   
   #image1{
     margin-top: 3%;
@@ -328,22 +335,22 @@ margin-left: 40%;
   }
   
   #image2{
-    width: 550px;
+    width: 300px;
   }
   
   #image3{
-    width: 700px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
   }
   
   #image4{
-    height: 320px;
+    width: 300px;
   }
   
   #image5{
-    width: 700px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
@@ -351,7 +358,7 @@ margin-left: 40%;
   
   #image6{
     margin-top: 3%;
-    width: 700px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
@@ -359,14 +366,14 @@ margin-left: 40%;
   
   #image7{
     margin-top: 3%;
-    width: 700px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
   }
   
   #image8{
-    width: 100px;
+    width: 70px;
   }
   
   #image9{
@@ -375,51 +382,58 @@ margin-left: 40%;
   
   #image10{
     margin-top: 3%;
-    width: 700px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3%;
   }
   
   #image11{
-    height: 320px;
+    width: 300px;
   }
   
   #image12{
-    height: 320px;
+    width: 300px;
   }
   
   #image13{
-    height: 320px;
-    width: 500px;
+    width: 300px;
+
   }
   
   #image14{
-    height: 320px;
-    width: 475px
+    width: 300px;
+
   }
   
   #image16{
   width: 300px;
-  margin-left: 40%;
+  margin-left:0% !important;
+ 
   }
   
   #image17{
-    height: 700px;
+    width: 300px;
   }
   
   #image18{
-    height: 700px;
-    margin-left: 20%;
+    width: 300px;
+    margin-left: 0% !important;
   }
   
   #image19{
-    width: 525px;
+    width: 300px;
+
   }
   
   
   #image21{
-    height: 500px;
-    margin-left: 70%;
+    width: 300px;
+    margin-left: 0% !important;
+    margin-bottom: 10%;
+  }
+
+  #pushM{
+    width: 300px !important;
   }
   }
