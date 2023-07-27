@@ -191,6 +191,15 @@ hr{
   font-weight: 400;
 }
 
+.aText{
+  color: white;
+  font-family: 'Century Gothic Paneuropean','Arial';
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 #image1{
   margin-top: 3%;
   height: 350px;
@@ -204,5 +213,57 @@ hr{
   width: 700px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 3%;
 }
 
+#image4{
+  height: 320px;
+}
+
+#image5{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+}
+
+#image6{
+  margin-top: 3%;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+}
+
+#image7{
+  margin-top: 3%;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+}
+
+#image8{
+  width: 100px;
+}
+
+
+.col1{
+  width: 80%;
+}
+
+.col2{
+  width: 20%;
+}
+
+#image9{
+  width: 95%;
+}
+
+#image10{
+  margin-top: 3%;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+}
