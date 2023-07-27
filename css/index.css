@@ -1,0 +1,150 @@
+/*Header*/
+.nav {
+  display: flex;
+  max-width: 100%;
+  margin: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background: linear-gradient(180deg, #68523f 0%, #876D57 100%);
+  height: 130px;
+  flex-shrink: 0;
+  gap: 10px;
+}
+
+.left2{
+  margin-top: auto;
+  margin-bottom: 1.9%;
+}
+
+.right2{
+  margin-top: auto;
+  margin-bottom: 1.8%;
+
+}
+.rightPush{
+  margin-left: auto;
+}
+
+header{
+  background: linear-gradient(180deg, #68523f 0%, #876D57 100%);
+  border-bottom: 1px solid;
+  border-color: black;
+}
+
+.nav a{
+  text-decoration: none;
+  color: white;
+  margin-right:20px;
+  transition: 1s;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'Lemon/Milk',"Catamaran";
+  letter-spacing: 1.5px;
+  font-size: 18px;
+}
+
+.nav a:hover{
+  text-decoration: none;
+  color: white;
+  font-family: 'Lemon/Milk',"Catamaran";
+  transition: 0.5s;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.5);
+  letter-spacing: 1.5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#menuIcon{
+  width: 0px;
+  height: 0px;
+}
+
+.logo {
+  margin-left:10%;
+  margin-right:0%;
+  margin-top: 0%;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+/*End Header*/
+
+body{
+  background-color:#755E4A !important;
+  margin: 0px;
+}
+
+/*Footer*/
+footer{
+  margin-top: auto;
+  background: linear-gradient(180deg, #68523f 0%, #876D57 100%);
+  border-top: 1px solid;
+  border-color: black;
+}
+
+.navF {
+  display: flex;
+  max-width: 100%;
+  margin: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background: linear-gradient(180deg, #68523f 0%, #876D57 100%);
+  height: 130px;
+  flex-shrink: 0;
+  gap: 10px;
+
+}
+/*End Footer*/
+
+
+
+
+
+
+
+
+body {
+  height: 300px;
+}
+
+hr{
+  border-width: 2px;
+  background-color: white;
+
+}
+
+.container{
+  max-width: 100% !important;
+  width: 80% !important;
+  margin-left: 13% !important;
+  margin-right: 10% !important;
+}
+
+.row{
+  width: 100% !important;
+}
+
+#scc{
+  margin-top: 5%; 
+
+}
+
+#title{
+  margin-top: 5%;
+  font-family: 'Lemon/Milk',"Catamaran";
+  letter-spacing: 1.5px;
+  font-size: 30px;
+  color: white;
+}
+
+.titleText{
+  text-align: center;
+  padding-right: 5%;
+  color: white;
+}
+
+.col{
+  padding: 0px !important;
+}
+
